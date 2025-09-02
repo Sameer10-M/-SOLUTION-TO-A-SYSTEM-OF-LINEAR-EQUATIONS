@@ -24,9 +24,9 @@ A = np.array([[1, -3],
 B = np.array([0, 10])
 solution = np.linalg.solve(A, B)
 print(solution)
-
+```
 ## Output:
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/fa2ab415-29ff-42d8-a10d-005f09beb95f" />
+<img width="1919" height="1191" alt="image" src="https://github.com/user-attachments/assets/2424dcef-f212-4f00-933f-ca1ecb4a2d50" />
 
 
 ## Result: 
